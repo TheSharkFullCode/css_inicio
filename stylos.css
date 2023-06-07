@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+    border: #6c2eb9;
+    
+}
+
+main{
+
+    font-family:Tahoma,  sans-serif;
+    size: 20px;
+}
+
+h1{
+    color:#6c2eb9;
+    font-weight: normal;
+    font-size: 40px;
+    font-size: Arial;
+    text-transform: uppercase;
+    margin-right:155px;
+
+
+}
+#parrafo{
+    font-family: 'Times New Roman';
+    
+
+}
+
+h2{color: purple;
+    font-weight: normal;
+    font-size: 35px;
+    font-family: Arial;
+    text-transform: uppercase;
+}
+
+
+ .list_ode ol li{
+
+    padding-left: 2rem;
+        background-image: url(star.svg);
+        background-position: 0 0;
+        background-size: 1.6rem 1.6rem;
+        
+}
+
